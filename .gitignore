@@ -1,1 +1,3 @@
 1_customer_segmentation/transaction_data.db
+.DS_Store
+.ipynb_checkpoints
